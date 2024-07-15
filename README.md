@@ -6,7 +6,16 @@ Duration : July to August,
 Mentor: Muzammil
 
 OVERVIEW OF THE PROJECT
+TYPE THE INGREDINT AND SEARCH THE DISH YOU CAN PREPARE WITH THAT INGREDIENT ALONG WITH THE RECEIPE
 ![Screenshot (5)](https://github.com/user-attachments/assets/b6638d20-c8ce-4b53-90b2-5891ae8813bc)
+RECEIPES ARE OPENED
+![Screenshot (6)](https://github.com/user-attachments/assets/0282c297-5c39-4551-9747-6646c8a9f32f)
+CLICK ON THE GET RECEIPE
+![Screenshot (7)](https://github.com/user-attachments/assets/db83619c-975f-45e1-9210-d97dbec518bc)
+YOU RECEIPE DESCRIPTION IS HERE
+![Screenshot (8)](https://github.com/user-attachments/assets/d57c684e-1839-4789-bf60-435549fafe92)
+
+
 
 1. Planning and Design
 Define Features: Decide on the key features your recipe app will have, such as displaying recipes, searching/filtering recipes, adding/editing recipes, saving favorites, etc.
