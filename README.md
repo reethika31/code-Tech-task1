@@ -6,6 +6,7 @@ Duration : July to August,
 Mentor: Muzammil
 
 OVERVIEW OF THE PROJECT
+![Screenshot (5)](https://github.com/user-attachments/assets/b6638d20-c8ce-4b53-90b2-5891ae8813bc)
 
 1. Planning and Design
 Define Features: Decide on the key features your recipe app will have, such as displaying recipes, searching/filtering recipes, adding/editing recipes, saving favorites, etc.
