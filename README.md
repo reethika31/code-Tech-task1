@@ -1,8 +1,8 @@
-Name: Ch.Reethika
-Comapany: CODETECH IT SOLUTIONS
-ID : CT4FWD4265
-Domain : FRONTEND DEVELOPMENT TASKS
-Duration : July to August
+Name: Ch.Reethika,
+Comapany: CODETECH IT SOLUTIONS,
+ID : CT4FWD4265,
+Domain : FRONTEND DEVELOPMENT TASKS,
+Duration : July to August,
 Mentor: Muzammil
 
 OVERVIEW OF THE PROJECT
